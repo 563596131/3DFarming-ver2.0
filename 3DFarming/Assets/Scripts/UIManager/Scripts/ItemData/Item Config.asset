@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86b92396afd9be4f842dccd2953a61d, type: 3}
+  m_Name: Item Config
+  m_EditorClassIdentifier: 
+  dataList:
+  - itemId: 1
+    itemIcon: {fileID: 1878605002292630464, guid: 12ab13dfdcd42254db7df2308b7102b1, type: 3}
+    itemName: normal
+    itemDesc: this is normal item. you can get money from npc.
+    buyPrice: 100
+    sellPrice: 80
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 2
+    itemIcon: {fileID: 4773600122041589605, guid: 12ab13dfdcd42254db7df2308b7102b1, type: 3}
+    itemName: normal
+    itemDesc: this is normal item. you can get money from npc.
+    buyPrice: 100
+    sellPrice: 80
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 3
+    itemIcon: {fileID: -1989100132555051953, guid: 12ab13dfdcd42254db7df2308b7102b1, type: 3}
+    itemName: seed
+    itemDesc: oh seed!
+    buyPrice: 100
+    sellPrice: 80
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 1000
+    itemIcon: {fileID: 21300000, guid: 9769269712d26f94aa41cf37d1e5f99a, type: 3}
+    itemName: Cabbage seed
+    itemDesc: Cabbage seed
+    buyPrice: 99
+    sellPrice: 84
+    itemType: 1
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 1001
+    itemIcon: {fileID: 21300000, guid: 587368544cc8dda48b8402b67da3a5d8, type: 3}
+    itemName: Pumpkin seed
+    itemDesc: Pumpkin seed
+    buyPrice: 100
+    sellPrice: 90
+    itemType: 1
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 1002
+    itemIcon: {fileID: 21300000, guid: 76075e3fffe0a0a448b679f776935030, type: 3}
+    itemName: Sunflower  seed
+    itemDesc: Sunflower  seed
+    buyPrice: 20
+    sellPrice: 10
+    itemType: 1
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 2000
+    itemIcon: {fileID: 21300000, guid: 9769269712d26f94aa41cf37d1e5f99a, type: 3}
+    itemName: 'Cabbage '
+    itemDesc: Cabbage
+    buyPrice: 20
+    sellPrice: 10
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 2001
+    itemIcon: {fileID: 21300000, guid: 587368544cc8dda48b8402b67da3a5d8, type: 3}
+    itemName: Pumpkin
+    itemDesc: 99
+    buyPrice: 20
+    sellPrice: 10
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0
+  - itemId: 2002
+    itemIcon: {fileID: 21300000, guid: 76075e3fffe0a0a448b679f776935030, type: 3}
+    itemName: Sunflower
+    itemDesc: 99
+    buyPrice: 20
+    sellPrice: 10
+    itemType: 0
+    ExtraData: {fileID: 0}
+    itemCount: 0
+    isEquip: 0

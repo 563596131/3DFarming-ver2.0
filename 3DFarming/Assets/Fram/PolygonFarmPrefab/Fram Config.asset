@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a537537a1db369849a256334e9a8e388, type: 3}
+  m_Name: Fram Config
+  m_EditorClassIdentifier: 
+  seedObj: {fileID: 3219457314713891096, guid: 05f1c919f6b399c4c8f459d618726aa2, type: 3}
+  framResList:
+  - {fileID: 8883997339683478998, guid: d233df4cd9dad854d8947f9276855a98, type: 3}
+  - {fileID: -5903022247854659527, guid: c92673dcacc82d244a54d21902526c36, type: 3}
+  - {fileID: -5443781695041001712, guid: 9d2df719dfed115489d6b8bb104a4de0, type: 3}
